@@ -16,11 +16,11 @@ A mobile Learning Management System app built with Flutter, Firebase, and REST A
 
 | Login | Home | Course Detail |
 |:---:|:---:|:---:|
-| ![Login](screenshots/login.jpg) | ![Home](screenshots/home.jpg) | ![Course Detail](screenshots/course_detail.jpg) |
+| ![Login](screenshots/login.jpeg) | ![Home](screenshots/home.jpg) | ![Course Detail](screenshots/course_detail.jpeg) |
 
 | Video Player | Quiz | Profile |
 |:---:|:---:|:---:|
-| ![Video Player](screenshots/video_player.jpg) | ![Quiz](screenshots/quiz.jpg) | ![Profile](screenshots/profile.jpg) |
+| ![Video Player](screenshots/video_player.jpeg) | ![Quiz](screenshots/quiz.jpeg) | ![Profile](screenshots/profile.jpeg) |
 
 > *(See [Adding Your Screenshots](#-adding-your-own-screenshots) below for how to fill these in.)*
 
