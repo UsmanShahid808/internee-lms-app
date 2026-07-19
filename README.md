@@ -1,8 +1,8 @@
 <div align="center">
 
-# 📚 Internee LMS — Learning App
+# 📚 Internee LMS Learning App
 
-A mobile Learning Management System app built with Flutter, Firebase, and REST APIs — developed as part of the **Internee.pk Mobile App Development Internship**.
+A mobile Learning Management System app built with Flutter, Firebase, and REST APIs developed as part of the **Internee.pk Mobile App Development Internship**.
 
 </div>
 
@@ -16,7 +16,7 @@ A mobile Learning Management System app built with Flutter, Firebase, and REST A
 
 | Login | Home | Course Detail |
 |:---:|:---:|:---:|
-| ![Login](screenshots/login.jpg) | ![Home](screenshots/home.jpeg) | ![Course Detail](screenshots/course_detail.jpg) |
+| ![Login](screenshots/login.jpg) | ![Home](screenshots/home.jpg) | ![Course Detail](screenshots/course_detail.jpg) |
 
 | Video Player | Quiz | Profile |
 |:---:|:---:|:---:|
@@ -26,14 +26,14 @@ A mobile Learning Management System app built with Flutter, Firebase, and REST A
 
 ## ✨ Features
 
-- 🔐 **Firebase Authentication** — secure email/password login & signup
-- 📖 **Course Catalog** — browse courses by category with lecture counts
-- 🎥 **Integrated Video Player** — watch lectures with full playback controls (play, pause, seek, fullscreen)
-- ✅ **Interactive Quizzes** — real-time scoring with instant visual feedback (correct/incorrect highlighting)
-- 📊 **Progress Tracking** — quiz scores and completion history saved to Firestore per user
-- 🌐 **REST API Integration** — daily motivational quote fetched live from a public REST API
-- 🎨 **Modern UI** — soft gradients, smooth animations, and a polished, professional design
-- 🚪 **Secure Logout** — with confirmation dialog
+- 🔐 **Firebase Authentication** - secure email/password login & signup
+- 📖 **Course Catalog** - browse courses by category with lecture counts
+- 🎥 **Integrated Video Player** - watch lectures with full playback controls (play, pause, seek, fullscreen)
+- ✅ **Interactive Quizzes** - real-time scoring with instant visual feedback (correct/incorrect highlighting)
+- 📊 **Progress Tracking** - quiz scores and completion history saved to Firestore per user
+- 🌐 **REST API Integration** - daily motivational quote fetched live from a public REST API
+- 🎨 **Modern UI** - soft gradients, smooth animations, and a polished, professional design
+- 🚪 **Secure Logout** - with confirmation dialog
 
 ## 🛠️ Tech Stack
 
@@ -126,7 +126,7 @@ flutter run
 ## 👨‍💻 Developer
 
 **UsmanShahid**
-Mobile App Developer (Flutter) — Internee.pk Internship Program
+Mobile App Developer (Flutter) - Internee.pk Internship Program
 📍 Islamabad, Pakistan
 
 ---
