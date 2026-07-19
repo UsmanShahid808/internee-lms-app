@@ -16,7 +16,7 @@ A mobile Learning Management System app built with Flutter, Firebase, and REST A
 
 | Login | Home | Course Detail |
 |:---:|:---:|:---:|
-| ![Login](screenshots/login.jpg) | ![Home](screenshots/home.jpg) | ![Course Detail](screenshots/course_detail.jpg) |
+| ![Login](screenshots/login.jpg) | ![Home](screenshots/home.jpeg) | ![Course Detail](screenshots/course_detail.jpg) |
 
 | Video Player | Quiz | Profile |
 |:---:|:---:|:---:|
