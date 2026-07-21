@@ -118,7 +118,7 @@ flutter run
 
 ## 🔑 Key Implementation Details
 
-- **Authentication**: `AuthService` wraps `firebase_auth` calls (`signUp`, `login`, `logout`) and returns human-readable error messages for common failures (weak password, email already in use, etc.).
+- **Authentication**: `AuthService` wraps `firebase_auth` calls (`signUp`, `login`, `logout`) and returns human-readable error messages for common failures (weak password, email already in use, etc.)
 - **Progress Tracking**: Each completed quiz is written to `progress/{userId}/quizzes/{autoId}` in Firestore, storing score, total, and a server timestamp. The Profile screen aggregates this data to show quizzes completed and average score.
 - **REST API**: `QuoteService` performs a `GET` request to a public REST endpoint and parses the JSON response, with a graceful fallback if the request fails.
 - **Null Safety**: All Firestore/dummy-data reads use null-aware operators (`??`) so a missing field never crashes the UI.
