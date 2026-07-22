@@ -127,7 +127,7 @@ flutter run
 
 **UsmanShahid**
 Mobile App Developer (Flutter) - Internee.pk Internship Program
-📍 Islamabad, Pakistan
+📍 Islamabad, Pakistan.
 
 ---
 
